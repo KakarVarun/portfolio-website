@@ -1,0 +1,31 @@
+.site-header {
+    background-color: #763568;
+    color: #d6afce;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content {
+    margin: 10px;
+    font-size: 12pt;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    box-shadow: #35182f 8px 5px 9px 2px;
+}
+
+.course-link {
+    color: #d6afce;
+}
+
+body {
+    margin: 0;
+}
